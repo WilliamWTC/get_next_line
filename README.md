@@ -1,2 +1,3 @@
-# get_next_line
-C library function that reads any valid file line by line.
+# 	get_next_line (core_project)
+
+	- The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
