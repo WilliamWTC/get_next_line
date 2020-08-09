@@ -21,3 +21,10 @@ Run the executable with './gnl_test' and add the file name you want to read:
 ```
 ./gnl_test [file name]
 ```
+
+## WeThinkCode :
+
+**Mandatory:** 100/100  
+**Bonus:** 25/25  
+  
+**Total:** 125/125
